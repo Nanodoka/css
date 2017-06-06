@@ -140,7 +140,7 @@ button {
 }
 
 .grabbing {
-    cursor: url(../images/owl-carousel/grabbing.png) 8 8, move;
+    cursor: url(https://github.com/Nanodoka/images/blob/master/owl-carousel/grabbing.png) 8 8, move;
 }
 
 .button {
@@ -1010,7 +1010,7 @@ blockquote {
 /* Footer */
 
 .footer {
-    background: url(../images/bg/pattern-bg.png);
+    background: url(https://github.com/Nanodoka/images/blob/master/bg/pattern-bg.png);
     background-repeat: repeat;
     text-align: center;
     padding: 30px 0;
